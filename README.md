@@ -16,6 +16,13 @@ sudo apt install -y build-essential libncurses5 libncurses5-dev flex bison libss
 zlib1g-dev lz4 cpio git wget bc python2 python3 openssh-client android-tools-mkbootimg p7zip-full
 ```
 
+## Clone the repo
+
+```sh
+git clone --recursive https://github.com/postkevone/c2q-kernelsu-next.git
+cd c2q-kernelsu-next
+```
+
 ## Set python2 as default
 ```sh
 sudo ln -sf python2 /usr/bin/python
