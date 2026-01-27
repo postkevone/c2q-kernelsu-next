@@ -1,6 +1,6 @@
 # KernelSU Next integration for the Note20 Ultra Snapdragon variant (c2q)
 
-The kernel was built for the SM-N986N (Korean variant), with firmware N986NKSSAHYH1.
+This kernel was built for the `SM-N986N` (Korean variant), with firmware `N986NKSSAHYH1`.
 
 # How to install
 
