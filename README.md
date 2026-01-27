@@ -2,6 +2,8 @@
 
 This kernel was built for the `SM-N986N` (Korean variant), with firmware `N986NKSSAHYH1`.
 
+<img src="https://i.imgur.com/O4wGqMo.jpeg" width="300" />
+
 # How to install
 
 Flash the latest `c2q_ksunext.zip` from the release page with TWRP.
