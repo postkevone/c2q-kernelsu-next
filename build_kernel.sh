@@ -24,3 +24,6 @@ cd anykernel && 7z a -tzip ../c2q_ksunext.zip . && cd ..
 
 if [ -f "c2q_ksunext.zip" ]; then
     echo "Flashable zip file created at: $(pwd)/c2q_ksunext.zip"
+else
+    echo "Error: Zip file was not found!"
+fi
