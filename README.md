@@ -37,3 +37,5 @@ sudo ln -sf python2 /usr/bin/python
 [GoRhanHee](https://github.com/GoRhanHee/kernel_samsung_sm8250/issues/3)
 
 ![KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next/tree/legacy)
+
+![WildKernels](https://github.com/WildKernels/kernel_patches/tree/main/next)
