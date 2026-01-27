@@ -21,3 +21,6 @@ make -j8 -C $(pwd) O=$(pwd)/out $KERNEL_MAKE_ENV ARCH=arm64 CROSS_COMPILE=$BUILD
 # Build the anykernel flashable zip
 cp out/arch/arm64/boot/Image $(pwd)/anykernel
 cd anykernel && 7z a -tzip ../c2q_ksunext.zip . && cd ..
+
+if [ -f "c2q_ksunext.zip" ]; then
+    echo "Flashable zip file created at: $(pwd)/c2q_ksunext.zip"
