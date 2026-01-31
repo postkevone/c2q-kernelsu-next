@@ -6,7 +6,7 @@ This kernel was built for the `SM-N986N` (Korean variant), with firmware `N986NK
 
 # How to install
 
-Flash the latest `c2q_ksunext.zip` from the release page with TWRP.
+Flash the latest `c2q_ksunext.zip` from the release page with TWRP or from the KernelSU Manager app.
 
 # How to build
 This repo was tested on Ubuntu 22.04 LTS (Jammy Jellyfish).
